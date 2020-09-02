@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="email_placholder">Email</string>
+    <string name="password_placeholder">Password</string>
+    <string name="sign_up_text">Register</string>
+    <string name="google_signin_btn">Sign In with Google</string>
+    <string name="gso_title">Google Sign On Page</string>
+    <string name="navigate_to_email_login_btn_text">Sign in with Email</string>
+    <string name="logged_in_text">You are logged in as:\n%1s</string>
+    <string name="sign_out_btn">Sign Out</string>
+    <string name="gso_navBtn_text">Google Sign In</string>
+    <string name="eso_navBtn_text">Email Sign In</string>
+</resources>
